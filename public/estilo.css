@@ -46,7 +46,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #2980b9;
+    background-color: #29b971;
 }
 
 /* Link para "Obtener usuarios" */
@@ -54,7 +54,7 @@ a {
     display: block;
     text-align: center;
     margin: 20px 0;
-    color: #2980b9;
+    color: #29b971;
     font-weight: bold;
     text-decoration: none;
 }
